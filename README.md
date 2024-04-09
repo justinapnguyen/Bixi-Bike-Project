@@ -5,7 +5,7 @@
 * Tableau
 
 ## Description
-This project aims to gain insights into the bike usage of BIXI, a public bicycle sharing system serving Montréal, Quebec, Canada.
+This goal of this project is to analyze the data and understand Bixi bike usage, the factors that influence the volume of usage, where the popular stations are, and to assess overall trends in Bixi bike usage over time to gauge business growth and identify opportunities for improvement or expansion. This project will utilize SQL and Tableau.
 
 ## The Data
 The data used is a cleaned version downloaded from the [open data portal at Bixi Montreal](https://www.bixi.com/en/open-data).
