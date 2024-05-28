@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="bixi_logo.png" alt="BIXI Logo" width=500px" height="500px">
+  <img src="bixi_logo.png" alt="BIXI Logo" width="500px" height="500px">
 </p>
 
 # BIXI Project
